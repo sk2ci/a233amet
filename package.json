@@ -1,0 +1,28 @@
+{
+  "name": "mcat-altyapi-nobles",
+  "version": "0.0.1",
+  "description": "by Nobles.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.6.1",
+    "chalk": "^4.1.0",
+    "moment": "^2.29.1",
+    "jimp": "^0.16.1",
+    "weather-js": "^2.0.0",
+    "quick.db": "^7.1.2",
+    "express": "^4.17.1",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^4.4.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
